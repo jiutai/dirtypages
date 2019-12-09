@@ -13,3 +13,9 @@
 5.  git pull origin master
 
 6.  git push -u origin +master
+
+
+RUN:
+    直接赋予权限后
+    ./oneclick.sh
+    即可
